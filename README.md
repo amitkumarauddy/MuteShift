@@ -40,7 +40,7 @@ You are free to modify, distribute, and use the software, but if you distribute 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute to MuteShift, please follow these steps:
 
-- Give a <h1>STAR</h1> the repository.
+- Give a "STAR" the repository.
 - Fork the repository.
 - Create a feature branch.
 - Commit your changes.
