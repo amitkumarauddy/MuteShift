@@ -27,11 +27,11 @@ MuteShift is a powerful video editing tool designed to **automatically mute or c
 
 ## 🛠️ Usage
 
-- **1.Open the video file in MuteShift.
-- **2.The software will automatically analyze the audio to detect music segments.
-- **3.Preview the video to review the music-highlighted sections.
-- **4.Use the controls to mute, cut, or trim the highlighted music sections.
-- **5.Render the edited video quickly, without re-encoding (when possible).
+- Open the video file in MuteShift.
+- The software will automatically analyze the audio to detect music segments.
+- Preview the video to review the music-highlighted sections.
+- Use the controls to mute, cut, or trim the highlighted music sections.
+- Render the edited video quickly, without re-encoding (when possible).
 
 ## 📜 License
 MuteShift is licensed under the AGPL-3.0 License.
@@ -40,21 +40,21 @@ You are free to modify, distribute, and use the software, but if you distribute 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute to MuteShift, please follow these steps:
 
-- **Fork the repository.
-- **Create a feature branch.
-- **Commit your changes.
-- **Push your changes to your fork.
-- **Open a Pull Request to the main branch.
+- Fork the repository.
+- Create a feature branch.
+- Commit your changes.
+- Push your changes to your fork.
+- Open a Pull Request to the main branch.
 
 ## Ways to Contribute:
-- **1.Reporting bugs or issues 🐞
-- **2.Suggesting new features ✨
-- **3.Writing documentation or tutorials 📚
-- **4.Fixing bugs and improving code 🔧
+- Reporting bugs or issues 🐞
+- Suggesting new features ✨
+- Writing documentation or tutorials 📚
+- Fixing bugs and improving code 🔧
 
 ## 🎥 Credits
-- **FFmpeg: For handling video processing.
-- **Librosa: For audio analysis and music detection.
+- FFmpeg: For handling video processing.
+- Librosa: For audio analysis and music detection.
 
 ## 📬 Contact
 For any questions or support, feel free to open an issue on the GitHub repository or contact us at [deltagodforce1.com].
