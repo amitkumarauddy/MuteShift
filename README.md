@@ -18,6 +18,7 @@ MuteShift is a powerful video editing tool designed to **automatically mute or c
 
 ### Prerequisites
 - **FFmpeg**: MuteShift relies on [FFmpeg](https://ffmpeg.org/download.html) for video processing. Please install FFmpeg before proceeding.
+- Add it to your system's PATH.
 
 ### Setup
 
