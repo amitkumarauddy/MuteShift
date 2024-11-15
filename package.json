@@ -1,0 +1,21 @@
+{
+  "name": "muteshift",
+  "version": "1.0.0",
+  "description": "MuteShift: Automatically mute or cut sections of video containing music.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["video-editing", "audio-muting", "cross-platform"],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "path": "^0.12.7",
+    "fs": "0.0.1-security"
+  }
+}
